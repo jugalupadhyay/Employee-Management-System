@@ -9,3 +9,5 @@ The Employee Management System is built using the following technologies :
 - React.js
 - Spring Boot
 - MySQL
+- Bootstrap
+
